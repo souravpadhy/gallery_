@@ -238,6 +238,10 @@ a:hover{
 }
 
 @media screen and (max-width: 690px){
+
+    .des{
+        text-align: inherit;   
+    }
     header nav a{
         font-size: 14px;
         margin-right: 0;
